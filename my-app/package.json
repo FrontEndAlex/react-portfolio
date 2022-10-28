@@ -5,7 +5,7 @@
   "author": "Maks Chytailo",
   "license": "MIT",
   "private": true,
-  "homepage": "https://ormaks.github.io/react-portfolio",
+  "homepage": "https://frontendalex.github.io/react-portfolio",
   "main": "./src/index.js",
   "scripts": {
     "build": "webpack -p",
